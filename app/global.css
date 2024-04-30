@@ -1,0 +1,74 @@
+ 
+.colorP{
+    color: #5C57F5;
+  }
+  .linkFont{
+    font-size: 11px;
+  }
+  .homeMain{
+    height: 99vh
+   
+  }
+  .sideBarMain{
+  background-color: #f0f0ff;
+  }
+  .headerSearchInpt{
+    border: 1px solid black;
+    width: 230px;
+    border-radius: 5px;
+  }
+  .hderSrchIcn{
+    position: absolute;
+    top: 4px;
+    right: 3px;
+    z-index: 10;
+  }
+  .HedrDpCircle{
+    height: 27px;
+    width: 27px;
+    border-radius: 50%;
+    border: 1px solid #5C57F5;
+  }
+  .hrdsltInpt{
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 5px;
+  }
+  .mainIndex{
+    width: 99%;
+     height: 93%;
+  }
+  .mainIndexBG{
+    width: 99%;
+     height: 99%;
+     background-color: rgb(210, 210, 250);
+  }
+  .serCaseBtn{
+    background-color: white;
+    color: #402ffe;
+    border : 1px solid #402ffe;
+  }
+  .serCaseTable{
+    background-color: white;
+    border: 1px solid rgb(130, 130, 130);
+  }
+  table {
+    width: 100%;
+    background-color: white;
+  }
+  th{
+    border: 1px solid #ddd;
+    font-size: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   }
+  td {
+    padding: 5px;
+     border-right: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #ffffff;
+  }
+  
+ 
