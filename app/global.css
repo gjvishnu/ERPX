@@ -1,4 +1,5 @@
  
+
 .colorP{
     color: #5C57F5;
   }
@@ -6,12 +7,12 @@
     font-size: 11px;
   }
   .homeMain{
-    height: 99vh
+    height: 100vh
    
   }
   .sideBarMain{
   background-color: #f0f0ff;
-  }
+    }
   .headerSearchInpt{
     border: 1px solid black;
     width: 230px;
@@ -70,5 +71,15 @@
   th {
     background-color: #ffffff;
   }
-  
  
+  .offcanMain{
+    position: absolute;
+    width: 230px;
+    height: 90%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 112.5px;
+    top: 51px;
+    box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.1);
+    transition: 500ms ease;
+  }
